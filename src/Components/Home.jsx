@@ -30,7 +30,7 @@ const Home = () => {
 <section>
     <div>
         <motion.h1{...animations.h1}>
-            Hello I'm <br />Adarsh Gupta <br />SGSITS Indore
+            Hello I'm <br />Adarsh Gupta <br />SGSITS Indore 
         </motion.h1>
 
         <Typewriter

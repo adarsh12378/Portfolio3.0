@@ -15,8 +15,12 @@
         height: 100%;
         padding-top: 6rem;
         > h1 {
-          font: 900 4rem $text1;
+          font: 900 3.5rem $text1;
+      &:hover{
+        color: cadetblue;
+      }
         }
+        
 
         .typewriterpara {
           margin: 20px 0;
